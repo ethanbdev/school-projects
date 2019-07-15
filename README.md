@@ -1,5 +1,5 @@
 # school-projects
-Code snippets from assignments and proejcts while in school and learning to code!
+Code snippets from assignments and projects while in school and learning to code!
 
 ## Files:
 ### PCML_Functions.py
